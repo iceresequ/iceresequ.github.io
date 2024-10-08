@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iceresequ.github.io/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/app/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/assets/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/css/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/data/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/includes/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/item/sitemap.html.gz
+Sitemap: https://iceresequ.github.io/src/sitemap.html.gz
